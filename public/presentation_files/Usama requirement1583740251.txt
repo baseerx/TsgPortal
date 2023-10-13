@@ -1,0 +1,7 @@
+Problem in data display..
+---> When we select procurement committee and member it does not show proper data..
+
+new requirements for interface userfriendly interface..
+---> Attendence Report Data is not displaying properly..
+-->meetingsch.php dropdown for meeting also and use datatable with searching
+--->allmeeting.php should be like attendance page

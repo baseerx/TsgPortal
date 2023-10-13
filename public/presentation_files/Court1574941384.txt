@@ -1,0 +1,212 @@
+CourtId  CourtName                                                              CourtLocation     RecordStatus  
+-------  ---------------------------------------------------------------------  ----------------  --------------
+      5  NIRC BENCH                                                             MULTAN                         1
+      7  DISTRICT & SESSION JUDGE                                               LAHORE                         1
+      8   Additional Session Judge                                              Multan                         0
+      9  HIGH COURT OF SINDH, CIRCUIT COURT                                     HYDERABAD                      1
+     10  PLAT-II,                                                               Multan                         1
+     11  NIRC BENCH                                                             LAHORE                         1
+     12  PUNJAB LABOUR COURT NO.1                                               LAHORE                         1
+     13  SUPREME COURT OF PAKISTAN                                              ISLAMABAD                      1
+     14  FST Bench                                                              Lahore                         1
+     15  Civil Judge-II                                                         Hyderabad                      0
+     16  Civil Judge-II                                                         Hyderabad                      0
+     17  CIVIL JUDGE-II                                                         HYDERABAD                      1
+     18  Senior Civil Judge 1st Class                                           Hyderabad                      1
+     19  Senior Civil Judge                                                     Kotri                          1
+     20  District & Session Judge                                               Hyderabad                      1
+     21  NIRC BENCH                                                             SUKKUR                         1
+     22  NIRC Karachi, Camp                                                     Hyderabad                      1
+     23  High Court of Sindh, Bench                                             Sukkur                         0
+     24  NIRC BENCH                                                             QUETTA                         1
+     25  High Court Sindh                                                       Hyderabad                      0
+     26  Sindh High Court                                                       Sukkur Bench                   1
+     27  Police station Hatri                                                   Hyderabad                      1
+     28  Civil Judge 1st Class                                                  Lahore                         1
+     29  District Judge                                                         Hyderabad                      1
+     30  Civil Judge                                                            Hyderabad                      1
+     31  High Court Balochistan                                                 Quetta                         1
+     32  High Court of Sindh                                                    Karachi                        1
+     33  Sindh high court                                                       Hyderabad                      1
+     34  Additional Session Judge                                               N.Feroze                       1
+     35  Senior Civil Judge                                                     D.G Khan                       1
+     36  Civil Judge                                                            D.G Khan                       1
+     37  Lahore High Court Multan Bench                                         Multan                         1
+     38  Supreme Court of Pakistan Branch Registry                              Karachi                        1
+     39  Supreme Court of Pakistan Branch Registry                              Lahore                         1
+     40  Supreme Court of Pakistan Branch Registry                              Peshawar                       1
+     41  NIRC Islamabad Bench                                                   Peshawar                       1
+     42  NIRC                                                                   Islamabad                      1
+     43  NIRC KARACHI BENCH                                                     Karachi                        1
+     44  Islamabad High Court                                                   Islamabad                      0
+     45  Peshawar High Court                                                    Peshawar                       1
+     46  6th Additional Distt. Judge Hyderabad                                  Hyderabad                      1
+     47  Anti Terrorism Court Hyderabad, ASJ/Judicial Magistrate Kotri          Hyderabad                      1
+     48  WAFAQI MOHTASIB REGIONAL OFFICE, QUETTA                                QUETTA                         1
+     49  Civil Judge Rajanpur                                                   Rajanpur                       0
+     50  CIVIL JUDGE RAJANPUR                                                   RAJANPUR                       1
+     51  Civil Judge Taxila                                                     Taxila                         1
+     52  abc                                                                    kkkkkk                         0
+     53  Addl. Session Judge-VIII Mardan                                        Mardan                         1
+     54  Civil Judge 1st Class East Islamabad                                   Islamabad                      0
+     55  Civil Judge 1st Class East Islamabad                                   Islamabad                      1
+     56  Lahore High Court Lahore                                               Lahore                         1
+     57  Civil Judge (West) Islamabad                                           Islamabad                      1
+     58  CIVIL JUDGE NO.8 BANNU                                                 BANNU                          1
+     59  CIVIL JUDGE-XXI  PESHAWAR                                              PESHAWAR                       1
+     60  Civil Judge Abbottabad                                                 Abbottabad                     0
+     61  ghih                                                                   Islamabad                      0
+     62  Civil Judge Abbottabad                                                 Abbottabad                     0
+     63  Civil Judge Abbottabad                                                 Abbottabad                     1
+     64  ghgh                                                                   Lahore                         0
+     65  mardan                                                                 Mardan                         0
+     66  MardanOne                                                              Mardan                         1
+     67  D I Khan                                                               Dera Ismail Khan               1
+     68  CIVIL JUDGE-XI MARDAN                                                  MARDAN                         1
+     69  Civil Judge Abbottabad                                                 Abbottabad                     1
+     70  CIVIL JUDGE RAJANPUR                                                   RAJANPUR                       1
+     71  Civil Judge,Taxila                                                     Taxila                         1
+     72  CIVIL JUDGE NO.8 BANNU                                                 BANNU                          1
+     73  CIVIL JUDGE-VI DERA ISMAIL KHAN                                        DERA ISMAIL KHAN               1
+     74  CIVIL JUDGE-VII PESHAWAR                                               PESHAWAR                       1
+     75  Civil Judge Okara                                                      Okara                          1
+     76  HIGHT COURT OF SINDH                                                   KARACHI                        1
+     77  Senior Civil Judge                                                     Lahore                         1
+     78  Sindh Labour Appellate Tribunal                                        Karachi                        1
+     79  Civil Judge Sadiqabad                                                  Sadiqabad                      1
+     80  ADDL. DISTT. & SESSION JUDGE                                           LAHORE                         1
+     81  Punjab Labour Court No.4                                               Faisalabad                     1
+     82  CIVIL JUDGE CLASS II                                                   LAHORE                         1
+     83  INSURANCE TRIBUNAL                                                     LAHORE                         1
+     84  COMMISSION OF INQUIRY ON ENFORCED DISAPPEARANCES                       ISLAMABAD                      1
+     85  Appellant Tribunal Inland Revenue Lahore Bench                         LAHORE                         1
+     86  Commissioner Appeals (PRA)                                             Lahore                         1
+     87  ALLAQA MAGISTRATE                                                      LAHORE                         1
+     88  Civil Judge                                                            Multan                         1
+     89  Senior Civil Judge                                                     Sialkot                        1
+     90  Civil Judge                                                            Faisalabad                     1
+     91  Civil Judge/ Magistrate Class-I                                        Faisalabad                     1
+     92  Civil Judge-III                                                        Lahore                         1
+     93  Senior Civil Judge                                                     Faisalabad                     1
+     94  ADDITIONAL DISTT. & SESSION JUDGE                                      FAISALABAD                     1
+     95  WAFAQI MOHTASIB SECRETARIAT                                            LAHORE                         1
+     96  Additional District & Session Judge                                    Mardan                         1
+     97  District Collector                                                     Muzaffargarh                   1
+     98  Distt Officer Revenue                                                  Muzaffargarh                   1
+     99  Senior Civil Judge                                                     Batgram                        1
+    100  Civil Judge-I                                                          Lahore                         1
+    101  Senior Civil Judge III Batgram                                         Batgram                        1
+    102  Senior Civil Judge Kohistan                                            Dasu                           1
+    103  Additional District Judge                                              Daska                          1
+    104  Civil Judge                                                            Mardan                         1
+    105  Lahore High Court Bahawalpur Bench                                     Bahawalpur                     1
+    106  District Judge                                                         Nowshera                       1
+    107  District Judge                                                         Nowshera                       0
+    108  Additional Session Judge, Daska                                        Daska                          1
+    109  Civil Judge Allaqa Qazi Alpuri District Shangla                        Shangla                        1
+    110  Civil Judge, Checksar Camp Court, Besham                               Besham                         1
+    111  Civil Judge Peshawar                                                   Peshawar                       1
+    112  Civil Judge, Chichawatni, Distt, Sahiwal                               Sahiwal                        1
+    113  Civil Judge Basham/Alpuri Shangla                                      Shangla                        1
+    114  Civil Judge Vehari                                                     Vehari                         1
+    115  Civil Judge, Nankana Sahib                                             Nankana Sahib                  1
+    116  Senior Civil Judge, Kohistan                                           Kohistan                       1
+    117  Civil Judge-II Batgram                                                 Batgram                        1
+    118  District Collector, Faisalabad                                         Faisalabad                     1
+    119  Additional District Judge-I, Mansehra                                  Mansehra                       1
+    120  Peshawar High Court, Abbotabad Bench                                   Abbotabad                      1
+    121  Civil Judge III District Court, Bannu                                  Bannu                          1
+    122  Civil Judge-II, Lakki Marawat                                          Lakki Marawat                  1
+    123  District & Session Judge Presiding Officer PLC-10, Sahiwal             Sahiwal                        1
+    124  Civil Judge-II Ilaqa Qazi Besham                                       Besham                         1
+    125  D.O.R/D.C.O Faisalabad                                                 Faisalabad                     1
+    126  Senior Civil Judge, Peshawar                                           Peshawar                       1
+    127  Civil Judge Dheer Court Distt. Bagh AJK                                Bagh AJK                       1
+    128  Civil Judge Batgram                                                    Batgram                        1
+    129  Double Bench Lahore High Court Lahore                                  Lahore                         1
+    130  High Court of AJ&K  Muzaffarabad                                       Muzaffarabad                   1
+    131  Civil Judge Patoki Distt. Kasur                                        Kasur                          1
+    132  Distt. & Session Judge,Kohistan at DASU                                DASU                           1
+    133  CIVIL JUDGE-IX ABBOTABAD                                               ABBOTABAD                      1
+    134  CIVIL JUDGE KOTLI AJK                                                  AJK                            1
+    135  Senior Civil Judge Kohistan at Dasu.                                   Dasu.                          1
+    136  Senior Civil Judge Rawalpindi                                          Rawalpindi                     1
+    137  Senior Civil Judge Court No.3 Muzaffarabad                             Muzaffarabad                   1
+    138  Civil Judge/Judicial Magistrate Takht Bhai Distt. Mardan               Mardan                         1
+    139  Distt. & Session Judge Shangla                                         Shangla                        1
+    140  Civil Judge Allaqa Qazi-II Malakand at Batkhela                        Batkhela                       1
+    141  Civil Judge / Illaqa Qazi/JFC, Besham, Distt. Shangla                  Shangla                        1
+    142  XEN Canal Division Distt. Bannu                                        Bannu                          1
+    143  Civil Jjudge Thorar Distt. Rawalakot AJK                               AJK                            1
+    144  HIGH COURT OF AJ&K CIRCUIT BENCH RAWLAKOT                              RAWLAKOT                       1
+    145  Distt & Session Judge Muzaffarabad                                     Muzaffarabad                   1
+    146  Civil Judge Judicial Megistrate Ghazi Distt. Haripur                   Haripur                        1
+    147  Additional District Judge-II Battagram                                 Battagram                      1
+    148  PESHAWAR HIGH COURT MINGORA BENCH/DARUL QAZA SAWAT                     SAWAT                          1
+    149  Civil Judge/Family Court Faisalabad                                    Faisalabad                     1
+    150  CIVIL JUDGE/JM DASU KOHISTAN                                           KOHISTAN                       0
+    151  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       1
+    152  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       0
+    153  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       0
+    154  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       0
+    155  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       0
+    156  CIVIL JUDGE/JM DASU KOHISTAN                                           KOHISTAN                       0
+    157  CIVIL JUDGE JM DASU KOHISTAN                                           KOHISTAN                       0
+    158  CIVIL JUDGE/JM DASU KOHISTAN                                           KOHISTAN                       0
+    159  CIVIL JUDGE/JM DASU KOHISTAN                                           KOHISTAN                       0
+    160  CIVIL JUDGE-VII MARDAN                                                 MARDAN                         1
+    161  CIVIL JUDGE (XII) MARDAN                                               MARDAN                         1
+    162  ADDL. DISTT. JUDGE MALAKAND AT BATKHELA                                BATKHELA                       1
+    163  SR. CIVIL JUDGE CHINIOT                                                CHINIOT                        1
+    164  CIVIL JUDGE/ILAQA QAZI AT BATKHELA DISTT. MALAKAND                     MALAKAND                       1
+    165  DISTT. JUDGE SUDHNUTI/PALANDRI AJ&K                                    AJ&K                           1
+    166  PESHAWAR HIGH COURT MINGORA BENCH/DARUL QAZA SAWAT                     SAWAT                          1
+    167  Civil Judge Court No.1 Muzaffarabad                                    Muzaffarabad                   1
+    168  SESSION JUDGE DISTT. SHANGLA                                           SHANGLA                        1
+    169  DISTT. & SESSION JUDGE /REFEREE COURT DISTT. MALAKAND AT BATKHELA      BATKHELA                       1
+    170  ADDL. DISTT. JUDGE GHAZI DISTT. HARIPUR                                HARIPUR                        1
+    171  CIVIL JUDGE WAZIRABAD DISTT. GUJRANWALA                                GUJRANWALA                     1
+    172  ADDL. DISTT. JUDGE SHEIKHUPURA                                         SHEIKHUPURA                    1
+    173  DSTT. JUDGE CHINIOT                                                    CHINIOT                        1
+    174  NAB (RWD) CIVIC CENTRE G-6, ISLAMABAD                                  ISLAMABAD                      1
+    175  Civil Judge, Islamabad                                                 Islamabad                      1
+    176  NEPRA Islamabad                                                        Islamabad                      1
+    177  SENIOR CIVIL JUDGE ISLAMABAD                                           ISLAMABAD                      1
+    178  Competition Commission of Pakistan GoP Islamabad                       Islamabad                      1
+    179  Banking Court Rawalpindi                                               Rawalpindi                     1
+    180  CIVIL JUDGE JUDICIAL MAGISTRATE NANKANA SAHIB                          NANKANA SAHIB                  1
+    181  CIVIL JUDGE 1ST CLASS RAHIMYAR KHAN                                    RAHIMYAR KHAN                  1
+    182  Civil Judge Hunza Gilgit-Baltistan                                     Gilgit-Baltistan               1
+    183  Distt. Judge, lahore                                                   Lahore                         1
+    184  Additional Distt. Judge lahore                                         Lahore                         1
+    185  International Court of Arbitration (ICC)                               ICC                            1
+    186  Plate-I, Lahore                                                        Lahore                         1
+    187  National Industial Relations Commission (NIRC), Islamabad              Islamabad                      1
+    188  Peshawar High Court, Banu Bench                                        Banu                           1
+    189  Civil Judge-II Muzaffarabad                                            Muzaffarabad                   1
+    190  JUDICIAL MAGISTRATE-II HARIPUR                                         HARIPUR                        1
+    191  DISTRICT JUDGE RAWALPINDI                                              RAWALPINDI                     1
+    192  CIVIL JUDGE-IV MUZAFFARABAD                                            MUZAFFARABAD                   1
+    193  CIVIL JUDGE 1ST CLASS-CUM JUDICIAL MAGISTRATE, SOHAWA DISTRICT JEHLUM  JEHLUM                         1
+    194  CIVIL JUDGE COURT NO.II MUZAFFARABAD AJ&K                              AJ&K                           1
+    195  SENIOR CIVIL JUDGE BESHAM DISTT. SHANGHLA KPK                          SHANGHLA KPK                   1
+    196  ADDL. DEPUTY COMMISIONER (REVENU) DISTT. RAWALPINDI                    RAWALPINDI                     1
+    197  ADDL. DISTT. JUDGE DHEERKOT                                            DHEERKOT                       1
+    198  CIVIL JUDGE 1ST CLASS JEHLUM                                           JEHLUM                         1
+    199  CIVIL JUDGE-IX NOWSHEHRA                                               NOWSHEHRA                      1
+    200  ADDITIONAL DISTRICT JUDGE JEHLUM                                       JEHLUM                         1
+    201  Additional Session Judge, Jampur                                       Jampur                         1
+    202  Additional Session Judge, D.G. Khan                                    D.G. Khan                      1
+    203  Judicial Magistrate, Multan                                            Multan                         1
+    204  FULL BENCH NIRC AT LAHORE                                              LAHORE                         1
+    205  SPECIAL JUDICIAL MAGISTRATE MULTAN CANTT                               MULTAN CANTT                   1
+    206  DOUBLE BENCH LAHORE HIGH COURT MULTAN BENCH                            MULTAN BENCH                   1
+    207  SENIOR CIVIL JUDGE AND RENT CONTROLLER-VII HYDERABAD                   HYDERABAD                      1
+    208  CIVIL JUDGE LORALAI                                                    LORALAI                        1
+    209  DISTRICT JUDGE LORALAI                                                 LORALAI                        1
+    210  DEPUTY COMMISSIONER, HYDERABAD                                         HYDERABAD                      1
+    211  FST Karachi                                                            Karachi                        1
+    212  Senior Civil Judge Distt. Kasur                                        Kasur                          1
+    213  COMMISSION OF INQUIRY ON ENFORCED DISAPPEARANCES ISLAMABAD             ISLAMABAD                      1
+    214  ADDITIONAL DISTT. & SESSION JUDGE-I NOWSHEHRA.                         NOWSHEHRA.                     1
+    215  ADDL. DISTT. JUDGE               dbfmsdnf,jsdh                                      JHELUM                         1
