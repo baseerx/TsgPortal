@@ -40,7 +40,7 @@
             </thead>
             <tbody>
             @php
-                             $cid=Request::route('fbid');
+                $cid=Request::route('fbid');
                              $records=\Illuminate\Support\Facades\DB::table('feedbacktxt')->where('course',$cid)->get();
                              foreach ($records as $key=>$records)
                              {

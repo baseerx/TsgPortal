@@ -72,9 +72,6 @@
                 >8</span
               >
             </li>
-              <li class="list-group-item">
-              Remaining Minutes for auto ending the exam is shown on the right bottom side<span class="badge badge-primary badge-pill float-right">9</span>
-            </li>
           </ul>
         </div>
         <div class="modal-footer">
